@@ -1,0 +1,54 @@
+span:nth-child(odd):active{
+    background-color:slategrey
+}
+.box{
+    margin:30px 20px 20px 30px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.h5{
+    color:black;
+}
+
+.star i {
+    cursor: pointer;
+    gap: 25px;
+    
+
+}
+
+span{
+    color: orange;
+  }
+
+
+
+
+
+ 
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
